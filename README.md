@@ -1,4 +1,4 @@
-# PySELENIUM
+<img src="assets/logo/pyselenium.png">
 
 PySelenium is a Python program that integrates with Selenium for the following uses:
 
