@@ -7,3 +7,9 @@ PySelenium is a Python program that integrates with Selenium for the following u
 * User-Experience Testing
 * Visual-Testing
 
+## Prerequisites
+
+## Execution
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
