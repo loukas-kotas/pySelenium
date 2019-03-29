@@ -9,6 +9,12 @@ PySelenium is a Python program that integrates with Selenium for the following u
 
 ## Prerequisites
 
+Docker way:
+* Docker should be installed
+
+Python way:
+* Python 2.7
+
 ## Execution
 
 ## License
